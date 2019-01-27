@@ -1,25 +1,11 @@
 <?php
 
 
+$x  = 23986589147653495648956;
 
-
-$firstname= " Abdul";
-$lastname= "mumin";
-$age= 27;
-
-
-echo ' My customer name is $firstname                 $lastname. His age is $age ';
-
-
-/*$result= $number_one + $number_two;
+echo $x;
 
 
 
-echo $result; */
-
-lwdkvhpqwdifhvgpioqwe
-dbhviopwebhfv
-asdbhgvawdobh
-gvbgv
 
 
